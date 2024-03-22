@@ -2,4 +2,4 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + NUMBERTWO))
 echo "$NUMBER"
-echo "This is completed and finalized"
+echo "This is completed"
